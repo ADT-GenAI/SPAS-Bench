@@ -18,10 +18,10 @@ SPAS 的測試資料包括：
 - 模型總體表現 vs 模型大小
 ![Scatter](images/spots.png)
 
-- 模型在一級分類的表現（Bar Chart）
+- 模型在一級分類的表現
 ![Bar](images/bar.png)
 
-- 模型在二級能力的表現（Radar Chart）
+- 模型在二級能力的表現
 ![Radar](images/radar.png)
 
 - 完整的正確率資料：

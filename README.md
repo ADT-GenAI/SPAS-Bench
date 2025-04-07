@@ -30,11 +30,40 @@ SPAS 的測試資料包括：
 - 完整的正確率資料：
 [`score.csv`](./score.csv)
 
-## Usage
-Step1: 聯繫作者並Clone 本專案: git clone https://github.com/ADT-GenAI/SPAS-Bench.git
- 
-Step2: 載入作者提供的questions.json 作模型測試
+## 申請 SPAS-Bench 完整題庫
 
-Step3: 透過 score.csv 比較模型成績
+如若您對 SPAS-Bench 的興趣，由於本題庫部分內容涵蓋企業內部數據與知識，為避免資料外洩與抄襲風險，目前僅開放部分樣本題目供公開瀏覽與測試，完整題庫僅提供給符合條件之單位或研究用途使用。
 
-若您在使用過程中有任何問題或建議，請開啟 Issue 或聯絡我們。
+1. 誰可以申請？
+- 具備學術研究、語言模型評估、或製造業相關應用目的的團隊或個人
+- 願意遵守使用規範並提供使用目的者
+
+2. 如何申請？
+請寄送以下信箱：
+auodigitech.tw@gmail.com
+
+或者聯繫作者：
+
+- Stephannie Chen stephannie.chen@auodigitech.com
+
+- Yuechen Wu yozhen.wu@auodigitech.com  
+
+- Vera Liu vera.liu@auodigitech.com
+
+申請內容請包含：
+1. 您的姓名 / 單位 / 職稱
+2. 使用目的（例如模型測試、學術研究、合作開發等）
+3. 是否願意簽署簡易使用同意聲明
+
+##  使用規範
+申請並取得題庫者，請遵守以下規範：
+- 不得對外轉發、重製或散布本題庫資料
+- 不得作為任何商業用途**
+- 公開使用或發表成果時，需註明資料來源為「SPAS-Bench, AUO Digitech人工智慧產品部」
+
+如有違反使用規範，AUO Digitech 保留中止使用權與法律追訴權利。
+
+若有任何疑問，歡迎與我們聯絡！
+
+AUO Digitech人工智慧產品部
+

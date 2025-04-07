@@ -15,7 +15,9 @@ auodigitech.tw@gmail.com
 
 或者聯繫作者：
 stephannie.chen@auodigitech.com
+
 yozhen.wu@auodigitech.com  
+
 vera.liu@auodigitech.com
 
 申請內容請包含：

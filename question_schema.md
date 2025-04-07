@@ -1,4 +1,4 @@
-在MMAS Benchmark中， 完整題庫與`sample_questions.json`的欄位定義與格式如下：
+在SPAS Benchmark中， 完整題庫與`sample_questions.json`的欄位定義與格式如下：
 
 | 欄位名稱   | 資料型別  | 說明 |
 |------------|--------|------|

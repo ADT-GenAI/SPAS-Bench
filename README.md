@@ -46,7 +46,7 @@ auodigitech.tw@gmail.com
 
 - Stephannie Chen stephannie.chen@auodigitech.com
 
-- Yuechen Wu yozhen.wu@auodigitech.com  
+- Youzhen Wu yozhen.wu@auodigitech.com  
 
 - Vera Liu vera.liu@auodigitech.com
 

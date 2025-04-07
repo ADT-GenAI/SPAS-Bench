@@ -13,7 +13,7 @@ SPAS 的測試資料包括：
 - 題庫以 `JSON` 格式儲存，包含題目 ID、分類、正確解答與提示資料
 - 每個任務都明確對應工廠場景的實際需求
 
-可以查看[`sample`](./sample_questions.json) 進一步查閱。
+可以進一步查閱[`schema`](./question_schema.md)和 [`sample`](./sample_questions.json) 獲得欄位定義、格式和題目樣例。
 
 ## Evaluation Results
 以下為幾項開源和閉源主要模型在不同能力層級的表現：
